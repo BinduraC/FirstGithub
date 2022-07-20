@@ -10,6 +10,7 @@ public class ClassTest {
 		Reporter.log("test2", true);
 		Reporter.log("test3", true);
 		Reporter.log("test4", true);
+		Reporter.log("changes in sunb branch", true);
 	}
 
 }

@@ -15,6 +15,7 @@ public class ClassTest {
 
 		Reporter.log("changing using github edit", true);
 		Reporter.log("pushing code to orsigor", true);
+		Reporter.log("testing for poll SCM", true);
 
 	}
 

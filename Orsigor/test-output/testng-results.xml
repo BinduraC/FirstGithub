@@ -13,13 +13,22 @@
     <line>
       <![CDATA[test4]]>
     </line>
+    <line>
+      <![CDATA[changes in sunb branch]]>
+    </line>
+    <line>
+      <![CDATA[changing using github edit]]>
+    </line>
+    <line>
+      <![CDATA[pushing code to orsigor]]>
+    </line>
   </reporter-output>
-  <suite started-at="2022-07-20T17:06:52 IST" name="Default suite" finished-at="2022-07-20T17:06:52 IST" duration-ms="50">
+  <suite started-at="2022-07-21T21:55:10 IST" name="Default suite" finished-at="2022-07-21T21:55:10 IST" duration-ms="57">
     <groups>
     </groups>
-    <test started-at="2022-07-20T17:06:52 IST" name="Default test" finished-at="2022-07-20T17:06:52 IST" duration-ms="50">
+    <test started-at="2022-07-21T21:55:10 IST" name="Default test" finished-at="2022-07-21T21:55:10 IST" duration-ms="57">
       <class name="com.practice.ClassTest">
-        <test-method signature="clssTest()[pri:0, instance:com.practice.ClassTest@101952da]" started-at="2022-07-20T17:06:52 IST" name="clssTest" finished-at="2022-07-20T17:06:52 IST" duration-ms="8" status="PASS">
+        <test-method signature="clssTest()[pri:0, instance:com.practice.ClassTest@101952da]" started-at="2022-07-21T21:55:10 IST" name="clssTest" finished-at="2022-07-21T21:55:10 IST" duration-ms="9" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[test1]]>
@@ -32,6 +41,15 @@
             </line>
             <line>
               <![CDATA[test4]]>
+            </line>
+            <line>
+              <![CDATA[changes in sunb branch]]>
+            </line>
+            <line>
+              <![CDATA[changing using github edit]]>
+            </line>
+            <line>
+              <![CDATA[pushing code to orsigor]]>
             </line>
           </reporter-output>
         </test-method> <!-- clssTest -->

@@ -6,6 +6,11 @@ public class ClassTest {
 	
 	@Test
 	public void clssTest() {
+		
+		String BROWSER = System.getProperty("browser");
+		String URL = System.getProperty("url");
+		System.out.println("BROWSER is "+BROWSER+"\t"+"URL is "+URL);
+		
 		Reporter.log("test1", true);
 		Reporter.log("test2", true);
 		Reporter.log("test3", true);

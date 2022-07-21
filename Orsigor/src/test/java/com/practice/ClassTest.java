@@ -14,6 +14,7 @@ public class ClassTest {
 		Reporter.log("changes in sunb branch", true);
 
 		Reporter.log("changing using github edit", true);
+		Reporter.log("pushing code to orsigor", true);
 
 	}
 

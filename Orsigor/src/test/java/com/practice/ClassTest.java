@@ -11,6 +11,7 @@ public class ClassTest {
 		Reporter.log("test3", true);
 		Reporter.log("test4", true);
 		Reporter.log("changing using github edit", true);
+		Reporter.log("changing for Second github", true);
 	}
 
 }
